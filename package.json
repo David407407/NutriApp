@@ -1,0 +1,26 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "proyecto con gulp, sass, node, app web para nutricion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David407407/NutriApp.git"
+  },
+  "keywords": [
+    "nuti"
+  ],
+  "author": "Andy David Tarango Calderón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David407407/NutriApp/issues"
+  },
+  "homepage": "https://github.com/David407407/NutriApp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.57.1"
+  }
+}

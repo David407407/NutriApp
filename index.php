@@ -1,4 +1,6 @@
-<?php  ?>
+<?php include 'prueba.php'; // Incluye código desde otro archivo php
+    
+?>
 
 <!DOCTYPE html>
 <html lang="en">
